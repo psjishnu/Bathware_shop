@@ -1,1 +1,1 @@
-hosted link: new2310.firebaseapp.com
+hosted link: https://new2310.firebaseapp.com
